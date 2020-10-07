@@ -4,6 +4,8 @@
 
 This movie recommendation system was created as an integrating project for the Data Science course in Digital House. The purpose of this project was to put the different skills acquired during the course into practice.
 
+End product: https://digitalhouseproyectofinal.herokuapp.com/
+
 ### Introduction on recommender systems
 
 Today's world is full of options and it is often difficult for us to know what we want. The goal of a recommender system is to recommend items to a user that are likely to be of interest to them. A recommender system aims to predict users' interests and acts as an information filtering system. 
